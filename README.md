@@ -5,8 +5,8 @@
 Technology :Artificial Intelligence
 
 # TEAM MEMBERS
-P.Abinaya
-C.Bharathi
-S.Deepika
-B.Ramyadevi
+ P.Abinaya
+ C.Bharathi
+ S.Deepika
+ B.Ramyadevi
 
